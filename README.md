@@ -98,7 +98,7 @@
     <p class="bio">Welcome to my digital playground. I post vlogs, random thoughts, and visual trips. Stay tuned.</p>
     <div class="social-links">
       <a href="https://youtube.com/" target="_blank">YouTube</a>
-      <a href="https://instagram.com/" target="_blank">Instagram</a>
+      <a href=https://www.instagram.com/_thevibecapri?igsh=MWY4Y2doOXlydXh0ZA%3D%3D&utm_source=qr="_blank">Instagram</a>
       <a href="https://twitter.com/" target="_blank">Twitter</a>
     </div>
   </header>
@@ -106,7 +106,7 @@
   <section class="videos">
     <h2>Latest Vlogs</h2>
     <div class="video-grid">
-      <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" allowfullscreen></iframe>
+      <iframe src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtu.be/rm_lvDln8kE?si=J4sfvpuRHkeC82Bx)" allowfullscreen></iframe>
       <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY" allowfullscreen></iframe>
       <iframe src="https://www.youtube.com/embed/ScMzIvxBSi4" allowfullscreen></iframe>
     </div>
